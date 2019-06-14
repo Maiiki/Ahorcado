@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClCompile Include="HellowWorld.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="holaprofe.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
